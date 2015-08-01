@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sumobot Jr.
 
 Sumobot Jr. is an open source sumobot design made for [Nodebots Day](http://nodebotsday.com). Most existing sumo kits cost between $99 and $160. Since we're trying to keep our event costs down, I decided to try to design a bot that could be put together for around $50 including the cost of the Arduino. The name and design are inspired by the simplicity and zip-tied wooden beauty of the [Printrbot Jr](http://printrbot.com/).
@@ -114,3 +115,7 @@ Made by
 <img src="https://github.com/makenai/sumobot-jr/raw/master/assets/amalgamation.png">
 
 Design by [@makenai](http://twitter.com/makenai) with feedback and ideas from [@noopkat](http://twitter.com/noopkat) aka (by their powers combined) Amalgamation of Cats.
+=======
+# SumoBot-Collab
+SumoBot Learning Exercise 
+>>>>>>> 38bdacf78317ea2ed3c700471013392b0ad0b759
